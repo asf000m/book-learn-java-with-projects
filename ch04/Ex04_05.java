@@ -1,5 +1,6 @@
 /* Proper housing is essential for the dinosaurs’ well-being. 
-Write a switch statement that assigns a dinosaur to a specific enclosure based on its size (XS, S, M, L, or XL). */
+Write a switch statement that assigns a dinosaur to a specific 
+enclosure based on its size (XS, S, M, L, or XL). */
 
 import java.util.*;
 public class Ex04_05 {
